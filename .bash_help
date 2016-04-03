@@ -1,0 +1,11 @@
+My bash Command and Shortcuts:
+*********************************************************
+1- l   = ls
+2- ll  = ls -lah
+3- ls  = ls -GFh
+4- ?   = pwd
+5- c   = clear
+6- g?  = git status
+7- m.  = git checkout master
+8- gl  = git branch
+*********************************************************
