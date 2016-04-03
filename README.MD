@@ -1,9 +1,10 @@
 # My Bach Prompt 
 
-This is sample code will help beginners to customize their Bash promot.
+This is sample code will help beginners to customize their Bash promot, and will help Git lovers to have more power while coding.
 
 # Notes
-This shell script are made for Mac os Terminal
+This shell script are made for Mac os Terminal.
+Please create send me suggestion and also feel free to fork it and update it.
 
 # Screenshots
 ![Shot 1](shot_1.png)
